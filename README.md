@@ -9,6 +9,7 @@
 - [Features](#Features)
 - [Compiling And Running](#CompAndRun)
 - [Images From the Game](#Screenshots)
+- [Code Dynamics](#CodeDynamics)
 
 ## General Info and History <a name="GeneralInfo"></a>
 &emsp; Hex is a two player abstract strategy board game in which players attempt to connect opposite sides of a hexagonal board.Hex was invented by mathematician and poet Piet Hein in 1942 and independently by John Nash in 1948.Draws are impossible in Hex due to the topology of the game board.The game has deep strategy, sharp tactics and a profound mathematical underpinning related to the Brouwer fixed-point theorem.The game was first marketed as a board game in Denmark under the name Con-tac-tix, and Parker Brothers marketed a version of it in 1952 called Hex; they are no longer in production. Hex can also be played with paper and pencil on hexagonally ruled graph paper.
@@ -51,3 +52,7 @@ $ make
   <img src="https://github.com/okantorun/Hex-Game-with-OOP-Principles/blob/main/media/end.png" width="300px">
 </p>
 
+## Code Dynamics <a name="CodeDynamics"></a>
+- This project covers many basic topics of C++ programming and OOP. Three different structures are used to represent game boards. 
+- These are board STL vector , 1D dynamic C array , Adapter class (just like the stack or queue class of the STL) . 
+- Class structures were designed by addressing basic OOP topics such as Classes and Data Abstraction, Operator Overloading, Virtual Functions and Polymorphism, Templates, Exception Handling, Standard Template Library.
