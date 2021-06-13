@@ -17,6 +17,12 @@
 &emsp; Hex-related research is current in the areas of topology, graph and matroid theory, combinatorics, game theory and artificial intelligence.
 - Reference : [Wikipedia](https://en.wikipedia.org/wiki/Hex_(board_game))
 
+<br/>
+<p align="left">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiDmdVJAgkJYl5sJbSqYCRE04hm8vICzqMEQ&usqp=CAU">
+</p>
+<br/>
+
 ## Features <a name="Features"></a>
 - 21 Different Board Sizes
 - Two Players (Computer-User or User1-User2)
