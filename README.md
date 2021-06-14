@@ -32,7 +32,7 @@
 - Switching between games
 
 ## Compiling And Runnig <a name="CompAndRun"></a>
-- This game has been tested on Ubuntu 19.10 and written with the C++11 standard.
+- This game has been tested on Ubuntu 19.10 terminal and written with the C++11 standard.
 #### For Linux
 ```
 $ git clone https://github.com/okantorun/Hex-Game-with-OOP-Principles.git
