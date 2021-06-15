@@ -12,9 +12,7 @@
 - [Code Dynamics](#CodeDynamics)
 
 ## General Info and History <a name="GeneralInfo"></a>
-&emsp; Hex is a two player abstract strategy board game in which players attempt to connect opposite sides of a hexagonal board.Hex was invented by mathematician and poet Piet Hein in 1942 and independently by John Nash in 1948.Draws are impossible in Hex due to the topology of the game board.The game has deep strategy, sharp tactics and a profound mathematical underpinning related to the Brouwer fixed-point theorem.The game was first marketed as a board game in Denmark under the name Con-tac-tix, and Parker Brothers marketed a version of it in 1952 called Hex; they are no longer in production. Hex can also be played with paper and pencil on hexagonally ruled graph paper.
- <br/>
-&emsp; Hex-related research is current in the areas of topology, graph and matroid theory, combinatorics, game theory and artificial intelligence.
+&emsp; Hex is a two player abstract strategy board game in which players attempt to connect opposite sides of a hexagonal board.Hex was invented by mathematician and poet Piet Hein in 1942 and independently by John Nash in 1948.Draws are impossible in Hex due to the topology of the game board.The game has deep strategy, sharp tactics and a profound mathematical underpinning related to the Brouwer fixed-point theorem.The game was first marketed as a board game in Denmark under the name Con-tac-tix, and Parker Brothers marketed a version of it in 1952 called Hex; they are no longer in production. Hex can also be played with paper and pencil on hexagonally ruled graph paper.Hex-related research is current in the areas of topology, graph and matroid theory, combinatorics, game theory and artificial intelligence.
 - Reference : [Wikipedia](https://en.wikipedia.org/wiki/Hex_(board_game))
 
 <br/>
