@@ -60,3 +60,4 @@ $ make
 - This project covers many basic topics of C++ programming and OOP. Three different structures are used to represent game boards. 
 - These are board STL vector , 1D dynamic C array , Adapter class (just like the stack or queue class of the STL) . 
 - Class structures were designed by addressing basic OOP topics such as Classes and Data Abstraction, Operator Overloading, Virtual Functions and Polymorphism, Templates, Exception Handling, Standard Template Library.
+- The GlobalFunction class checks whether the board structure of the game to be loaded is suitable.
