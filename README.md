@@ -37,7 +37,7 @@ $ git clone https://github.com/okantorun/Hex-Game-with-OOP-Principles.git
 
 ```
 ```
-$ cd .../Hex-Game-with-OOP-Principles
+$ cd .../Hex-Game
 
 ```
 ```
